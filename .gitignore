@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Ignore package.json
+package.json
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Other potential ignores
+.DS_Store
+coverage/
